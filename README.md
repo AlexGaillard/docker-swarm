@@ -1,1 +1,1 @@
-A simple example app used a tool to explain Docker Swarm
+A simple example app used as a training and explanation tool to explain Docker Swarm.
